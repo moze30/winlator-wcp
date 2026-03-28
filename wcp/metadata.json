@@ -1,11 +1,8 @@
 [
   { "type": "Box64", "verName": "0.2.7", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/box64-0.2.7.wcp" },
   { "type": "Box64", "verName": "0.3.1-017d13a", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/box64-0.3.1-017d13a.wcp" },
-  { "type": "Box64", "verName": "0.4.1", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-glibc/releases/download/packages/box64-0.4.1.wcp" },
-  { "type": "Box64", "verName": "0.4.1", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-glibc/releases/download/packages/box64-0.4.1.wcp" },
   { "type": "DXVK", "verName": "0.96", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/dxvk-0.96.wcp" },
   { "type": "DXVK", "verName": "1.10.3", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/dxvk-1.10.3.wcp" },
-  { "type": "DXVK", "verName": "2.7.1", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-glibc/releases/download/packages/dxvk-2.7.1.wcp" },
   { "type": "Turnip", "verName": "23.3.0", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/turnip-23.3.0.wcp" },
   { "type": "Turnip", "verName": "24.3.0-d264c66f", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/turnip-24.3.0-d264c66f.wcp" },
   { "type": "Turnip", "verName": "25.0.0", "verCode": 5, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/turnip-v25.0.0-R5.wcp" },
