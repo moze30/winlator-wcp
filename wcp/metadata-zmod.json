@@ -1,4 +1,5 @@
 [
- { "type": "Wine", "verName": "9.2-custom", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/zmod-v1/wine-9.2-custom.wcp" },
+  { "type": "Box64", "verName": "0.4.2", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/zmod-v1/box64-0.4.2.wcp" },
+  { "type": "Wine", "verName": "9.2-custom", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/zmod-v1/wine-9.2-custom.wcp" },
   { "type": "Wine", "verName": "10.10-arm64ec", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/zmod-v1/wine-10.10-arm64ec.wcp" }
 ]
