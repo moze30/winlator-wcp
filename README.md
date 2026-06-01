@@ -8,9 +8,8 @@
 此仓库用于存放Glibc版本和Zmod版本的wcp安装包，主要服务于在线安装功能
 # 我们的主仓库
 Winlator-Glibc主仓库为[https://github.com/moze30/winlator-glibc]
-Winlator-Zmod主仓库为[https://github.com/moze30/winlator-zmod]
 
-本仓库用于储存我们的主项目在后续更新过程中所有的wcp安装包，最新Glibc版apk下载请[点击这里](https://github.com/moze30/winlator-glibc)，最新Zmod版apk下载请[点击这里](https://github.com/moze30/winlator-zmod)
+本仓库用于储存我们的主项目在后续更新过程中所有的wcp安装包，最新Glibc版apk下载请[点击这里](https://github.com/moze30/winlator-glibc)
 # 注意事项
 本仓库后续储存的wcp安装包仅为我们的主项目进行适配与优化，并不保证winlator-glibc原仓库或是其他改版能够正常使用，在其他版本的运行情况我们不得而知，如需要正常使用请使用我们主项目中的apk。
 # Modify by
