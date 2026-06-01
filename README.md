@@ -5,7 +5,7 @@
 </p>
 
 # Winlator-Wcp
-此仓库用于存放Glibc版本和Zmod版本的wcp安装包，主要服务于在线安装功能
+此仓库用于存放Glibc版本的wcp安装包，主要服务于在线安装功能
 # 我们的主仓库
 Winlator-Glibc主仓库为[https://github.com/moze30/winlator-glibc]
 
