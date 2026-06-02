@@ -12,5 +12,6 @@
   { "type": "Turnip", "verName": "25.3.0", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/Mesa/turnip-25.3.0.wcp" },
   { "type": "Wine", "verName": "9.13-custom", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/Wine/wine-9.13-custom.wcp" },
   { "type": "Wine", "verName": "9.15-custom", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/packages/wine-9.15-custom.wcp" },
+  { "type": "Wine", "verName": "11.10-custom", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/Wine/wine-11.10-custom.wcp" },
   { "type": "Wine", "verName": "10.15-amd64", "verCode": 1, "remoteUrl": "https://github.com/moze30/winlator-wcp/releases/download/Wine/wine-10.15-amd64.wcp" }
 ]
